@@ -1,16 +1,16 @@
 {
 	"ADS": {
-		"inter_type": "admob",
-		"native_type": "admob",
+		"inter_type": "applovin",
+		"native_type": "applovin",
 		
 		"ironsource_id": "admob",
 		"unity_id": "THZ6887",
 		
 		
 		
-		 "interstitial_applovin":"inter",
-		"interstitial_applovin1": "4292105",
-		"native_applovin": "11c7e1165",
+		 "interstitial_applovin":"1775143df74abb78",
+		"interstitial_applovin1": "87606746a9fbcb8d",
+		"native_applovin": "1741e56199bcdb10",
 
 
 		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
